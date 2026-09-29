@@ -1,6 +1,6 @@
 export default {
   command: "sapa",
-  category: "bot",
+  category: "learn",
   execute(m) {
     let now = new Date();
     let jam = now.getHours();

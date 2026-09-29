@@ -9,7 +9,7 @@ export const settings = {
   usePairingCode: true,
   customPairing: "VERATEAM", //wajib 8 huruf/angka (dilarang pakai karakter I, O, U, 0)
   noprefix: true,
-  self: true,
+  self: false,
 
   // log RAW event 'message'
   eventMessage: false,

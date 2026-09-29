@@ -1,6 +1,6 @@
 export default {
   command: "hitung",
-  category: "bot",
+  category: "learn",
 
   execute(m) {
     let angka = parseInt(m.args[0]);
